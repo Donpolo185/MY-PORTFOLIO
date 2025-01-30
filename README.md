@@ -1,5 +1,4 @@
 # MY-PORTFOLIO
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,7 @@
 <body>
     <header>
         <div class="dropdown">
-            <button="deop-btn"><button>menu</button>
+            <button class="deop-btn">Menu</button>
             <div class="dropdown-content">
                 <a href="#home">Home</a>
                 <a href="#about">About</a>
