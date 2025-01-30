@@ -76,7 +76,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Adeleye Adebambo.</p>
+        <p>&copy; WILLIAMS.</p>
     </footer>
 </body>
 </html>
